@@ -61,14 +61,3 @@ Users can create polls, answer questions, and earn rewards—secured by smart co
 Paolo Lozada
 
 ---
-
-*Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.*
-
----
-
-**License:** MIT
-
----
-
-Just copy and paste!
-Let me know if you want a section added (FAQs, screenshots, etc.) or a Tagalog/Filipino translation!
