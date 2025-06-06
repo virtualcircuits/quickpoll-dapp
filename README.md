@@ -22,7 +22,7 @@ Users can create polls, answer questions, and earn rewards—secured by smart co
 1. Clone the repository:
    `git clone https://github.com/yourusername/quickpoll-dapp.git`
 2. Go to the folder:
-   `cd quickpoll-dapp`
+   `cd quickpoll-dapp/quickpoll-frontend`
 3. Install dependencies:
    `npm install`
 4. Run the app:
