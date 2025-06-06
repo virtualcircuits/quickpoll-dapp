@@ -1,0 +1,12 @@
+[package]
+name = "quick-poll-reward"
+version = "1.0.0"
+authors = []
+
+[addresses]
+quickpoll_addr = "0xb062501efb017c8a15c6b684938c20ec8b9828f1a3c68ab1100c7e4860226b9c"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
